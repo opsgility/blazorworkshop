@@ -18,11 +18,11 @@
 
 アプリを実行すると（Visual Studio の上部にある緑色の `IIS Express` 再生ボタンをクリック）、現在はシンプルなホームページのみが表示されるはずです。
 
-![初期ホームページ](images/initial-homepage.png)
+![初期ホームページ](images/ini)
 
 デバッグを停止し、`BlazingPizza.Client` プロジェクトを展開します。次に `Pages` フォルダを展開し、`Index.razor` をクリックしてホームページのコードを確認します。
 
-![ホームページのコード](images/homepage-code.png)
+![ホームページのコード](images/homepagecode.png)
 
 このホームページは単一のコンポーネントとして実装されています。`@page` ディレクティブは、`Index` コンポーネントが指定されたルートでアクセスできるページであることを示します。
 

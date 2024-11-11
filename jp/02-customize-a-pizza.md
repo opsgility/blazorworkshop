@@ -15,7 +15,7 @@
 
 変更後のコードは次のようになります。
 
-![Add handler](images/AddHandler.png)
+![Add handler](images/addhandler.png)
 
 アプリを実行し、ブラウザコンソールにピザ名が表示されることを確認します。
 
